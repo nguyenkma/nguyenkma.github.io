@@ -1,0 +1,12 @@
+# Site settings
+title: Kevin M.A. Nguyen
+email: nguyenkma@gmail.com
+description: Blog; portfolio; and other info about Kevin M.A. Nguyen
+baseurl: ""
+url: www.linkedin.com/in/nguyenkma
+twitter_username: nguyenkma
+github_username:  nguyenkma
+
+# Build settings
+markdown: kramdown
+permalink: pretty
